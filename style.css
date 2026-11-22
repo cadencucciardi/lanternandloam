@@ -1,0 +1,6 @@
+body{margin:0;background:#f6ecd9;color:#4a3426;font:18px/1.6 Georgia,serif}
+main{max-width:760px;margin:0 auto;padding:40px 16px 64px}
+h1{font-size:34px;margin:.2em 0}h2{font-size:22px;margin-top:1.6em;color:#c0602f}
+a{color:#7a4a2a}img.logo{width:120px;height:120px;border-radius:50%}
+.btn{display:inline-block;background:#c0602f;color:#fff;padding:10px 18px;border-radius:8px;text-decoration:none}
+footer{margin-top:48px;font-size:14px;color:#7a9a6b}
