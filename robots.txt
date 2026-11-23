@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cadencucciardi.github.io/lanternandloam/sitemap.xml
